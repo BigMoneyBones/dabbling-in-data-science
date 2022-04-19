@@ -274,7 +274,7 @@ async function setup() {
       labels: labels,
       datasets: [
         {
-          label: "# of Votes",
+          label: "# of Dunkin Donuts Stores",
           data: stateData,
           backgroundColor: [
             "rgba(255, 99, 132, 0.2)",
